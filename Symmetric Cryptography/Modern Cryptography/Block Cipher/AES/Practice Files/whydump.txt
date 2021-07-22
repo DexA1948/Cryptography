@@ -1,0 +1,2 @@
+Why am I posting dump files?
+I'm posting this files because I tried a lot of things before succeeding and I might need this knowedge for further projects, that why I'm posting them along with final file which is in the parent folder of this folder. i.e: "aes.py".
